@@ -1,6 +1,6 @@
-# BMC Assistant
+# Orvyn
 
-BMC Assistant is an AI-powered assistant designed to handle user requests through a **multi-agent architecture**, where different specialized agents perform different tasks.
+Orvyn is an AI-powered assistant designed to handle user requests through a **multi-agent architecture**, where different specialized agents perform different tasks.
 
 ### Key Idea
 
